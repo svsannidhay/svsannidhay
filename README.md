@@ -2,9 +2,7 @@
 
 I'm Sannidhay, and I am a front-end web developer. I enjoy doing competitive programming and spend most of time grinding on Codeforces and Hackerearth, apart from all of that i really really love visualisation projects and designing web components.  
 
-### WEBSITES 
 
-![PATH FINDING VISUALISER](link to image / GIF)
 
 
 
