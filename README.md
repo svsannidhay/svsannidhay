@@ -26,28 +26,24 @@ I'm Sannidhay, and I am a front-end web developer. I enjoy doing competitive pro
 
 <br />
 
-#### VISTORS 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=svsannidhay.svsannidhay)
-
 
 #### LANGUAGES AND TOOLS:
 [<img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C]
 [<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img align="left" alt="html5" width="36px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" />][html]
-[<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img align="left" alt="CSS3" width="36px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />][css]
+[<img align="left" alt="JavaScript" width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />][js]
+[<img align="left" alt="Sass" width="36px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />][sass]
 
 
 
 [<img align="right" alt="Firebase" width="36px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
 [<img align="right" alt="Heroku" width="36px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />][heroku]
 [<img align="right" alt="Redux" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />][redux]
-[<img align="right" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="right" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="right" alt="express" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][express]
-[<img align="right" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][mongodb]
+[<img align="right" alt="React" width="36px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />][react]
+[<img align="right" alt="Node.js" width="36px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />][node]
+[<img align="right" alt="express" width="36px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />][express]
+[<img align="right" alt="MongoDB" width="36px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][mongodb]
 
 <br />
 <br />
